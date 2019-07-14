@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "895af830-324a-4612-a4cd-4c7f5ecfc67b",
+            "Value": {
+                "id": "aa446fc8-97fa-4b49-9ea4-8dcabec8d85f",
+                "resourcePath": "objects\\LIBERAL\\LIBERAL.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9017463d-4af9-40ce-84e7-07ebbbae0a1c",
             "Value": {
                 "id": "ffb6bb30-a0eb-4463-86f9-d7b93d47ad00",
